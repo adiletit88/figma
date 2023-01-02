@@ -72,7 +72,7 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
-ul li {
+ul .button {
   display: inline;
   padding: 14px;
   position: relative;
