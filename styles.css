@@ -170,7 +170,7 @@ ul li {
   text-align: center;
   padding-top: 4px;
 }
-.container-2{
+.container-2 {
   background-color: rgba(123, 172, 220, 0.359);
   width: 80%;
   height: 700px;
@@ -193,7 +193,7 @@ ul li {
   justify-content: space-around;
 }
 
-.col-7{
+.col-7 img {
   width: 415px;
   height: 310px;
   margin-top: 90px;
