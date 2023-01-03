@@ -170,7 +170,7 @@ ul li {
   text-align: center;
   padding-top: 4px;
 }
-.top {
+.container-2{
   background-color: rgba(123, 172, 220, 0.359);
   width: 80%;
   height: 700px;
@@ -188,7 +188,7 @@ ul li {
   padding-top: 3%;
   font-size: 12px;
 }
-.topbar {
+.container-3 {
   display: flex;
   justify-content: space-around;
 }
