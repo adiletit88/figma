@@ -5,7 +5,7 @@ body html {
   margin: 0;
 }
 .container {
-  max-width: 980px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -60,6 +60,7 @@ header {
   align-items: center;
   margin-left: 10%;
 }
+
 h1 {
   max-width: 300px;
   text-align: center;
@@ -241,6 +242,12 @@ ul li {
   padding-right: 29%;
   padding-top: 7px;
 }
+@media screen (max-width: 648px) {
+  .card{
+  
+  }
+
+}
 .row-3 {
   display: flex;
   justify-content: center;
@@ -289,11 +296,11 @@ ul li {
   padding-top: 60px;
 }
 .card-2 img {
-max-width:100%;
+  max-width: 100%;
 }
 .col-17 {
   padding-top: 20px;
-  }
+}
 footer {
   max-width: 80%;
   height: 280px;
@@ -336,7 +343,7 @@ footer {
 }
 
 .col-19 {
-  font-size: 12px;
+  font-size: 14px;
   padding-left: 15px;
   padding-top: 15px;
 }
@@ -364,5 +371,3 @@ footer {
   padding-top: 14px;
   font-size: 12px;
 }
-
-
