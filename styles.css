@@ -110,7 +110,11 @@ ul li {
   height: 200px;
   color: black;
   background-color: white;
-  margin: 20px;
+  margin: 10px;
+}
+.card.card-box{
+  background-color: black;
+  color: white;
 }
 .card img{
   padding-left: 30px;
@@ -251,7 +255,7 @@ ul li {
   justify-content: center;
   margin-top: 40px;
 }
-.cards {
+.carde {
   width: 340px;
   height: 240px;
   color: black;
