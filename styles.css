@@ -92,7 +92,7 @@ ul li {
   width: 25px;
 }
 
-.container {
+ {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -103,26 +103,26 @@ ul li {
   padding-top: 30px;
 }
 
-.row {
+ {
   width: 160px;
   height: 200px;
   color: black;
   background-color: white;
   margin: 20px;
 }
-.card img {
+{
   padding-left: 30px;
   padding-top: 25px;
   width: 55px;
   height: 55px;
 }
-.colon {
+ {
   font-size: 15px;
   padding-top: 18px;
   text-align: center;
   list-style-type: none;
 }
-.colba {
+ {
   text-align: center;
   list-style-type: none;
   font-size: 10px;
@@ -130,7 +130,7 @@ ul li {
   padding-right: 33px;
   padding-top: 10px;
 }
-.colgayt {
+ {
   margin-left: 30px;
   margin-top: 20px;
   list-style-type: none;
