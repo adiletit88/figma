@@ -110,19 +110,19 @@ ul li {
   background-color: white;
   margin: 20px;
 }
-.row img {
+.card img {
   padding-left: 30px;
   padding-top: 25px;
   width: 55px;
   height: 55px;
 }
-.col-1 {
+.colon {
   font-size: 15px;
   padding-top: 18px;
   text-align: center;
   list-style-type: none;
 }
-.col-2 {
+.colba {
   text-align: center;
   list-style-type: none;
   font-size: 10px;
@@ -130,7 +130,7 @@ ul li {
   padding-right: 33px;
   padding-top: 10px;
 }
-.col-3 {
+.colgayt {
   margin-left: 30px;
   margin-top: 20px;
   list-style-type: none;
