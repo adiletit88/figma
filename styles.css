@@ -245,18 +245,13 @@ ul li {
   padding-right: 29%;
   padding-top: 7px;
 }
-@media screen (max-width: 648px) {
-  .card{
-  
-  }
 
-}
 .row-3 {
   display: flex;
   justify-content: center;
   margin-top: 40px;
 }
-.card {
+.cards {
   width: 340px;
   height: 240px;
   color: black;
