@@ -186,8 +186,8 @@ ul li {
   margin-left: 10%;
 }
 .section-6{
-  margin-left: 38%;
-  padding-top: 8%;
+  text-align: center;
+  padding-top: 30px;
 }
 .section-7 {
   text-align: center;
@@ -196,19 +196,19 @@ ul li {
   padding-top: 3%;
   font-size: 12px;
 }
-.topbar {
+.block-3 {
   display: flex;
   justify-content: space-around;
 }
 
-.col-7 img {
-  width: 415px;
-  height: 310px;
-  margin-top: 90px;
-  padding-left: 60px;
+.card-2{
+  width: 350px;
+  height: 280px;
+  margin-top: 15px;
+  padding-left: 34px;
 }
 
-.col-8 {
+.{
   margin-top: 110px;
   padding-right: 60px;
   width: 400px;
@@ -291,7 +291,7 @@ ul li {
   justify-content: center;
   margin-left: 10%;
 }
-.card-2 {
+.card- {
   max-width: 320px;
   color: white;
   margin: 60px;
