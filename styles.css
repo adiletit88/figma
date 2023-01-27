@@ -91,16 +91,7 @@ ul li {
   background-color: rgba(255, 255, 255, 0.046);
   width: 25px;
 }
-.block-1{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(137, 185, 205, 0.248);
-  width: 80%;
-  height: 300px;
-  margin-top: 20px;
-  padding-top: 30px;
-}
+
 .container {
   display: flex;
   justify-content: center;
