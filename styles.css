@@ -185,16 +185,12 @@ ul li {
   margin-top: 60px;
   margin-left: 10%;
 }
-.section-6{
-  text-align: center;
-  padding-top: 30px;
-}
-.section-7 {
-  text-align: center;
-  padding-left: 320px;
+
+.section-6 {
+  padding-left: 288px;
   padding-right: 320px;
   padding-top: 3%;
-  font-size: 12px;
+  font-size: 10px;
 }
 .block-3 {
   display: flex;
@@ -208,14 +204,14 @@ ul li {
   padding-left: 34px;
 }
 
-.{
+.section-{
   margin-top: 110px;
   padding-right: 60px;
   width: 400px;
   height: 240px;
   font-size: 12px;
 }
-.section- {
+.section-6{
   width: 200px;
   padding-bottom: 10px;
 }
