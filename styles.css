@@ -203,34 +203,29 @@ ul li {
 }
 
 .card-2{
-  width: 350px;
-  height: 280px;
+  width: 280px;
+  height: 260px;
   margin-top: 15px;
-  padding-left: 34px;
+  padding-left: auto;
+  padding-right: auto;
 }
 
-.section-{
-  margin-top: 110px;
-  padding-right: 60px;
-  width: 400px;
-  height: 240px;
-  font-size: 12px;
-}
-.section-6{
-  width: 200px;
-  padding-bottom: 10px;
-}
-.section-8 {
-  width: 265px;
-  padding-bottom: 10px;
+.section-8{
+  width: 150px;
+  padding-top: 15px;
 }
 
-.col-9 {
+.section-9 {
+  font-size: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 .col-10 {
+  width: 35px;
   padding-left: 33px;
+}
+.section-11{
+  width: 30px;
 }
 .content {
   width: 80%;
