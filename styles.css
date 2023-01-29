@@ -204,7 +204,7 @@ ul li {
 }
 
 .card-blue{
-  width: 280px;
+  width: 350px;
   height: 280px;
   margin-top: 15px;
   padding-left: auto;
@@ -212,22 +212,24 @@ ul li {
 }
 
 .section-8{
-  width: 140px;
+  width: 130px;
   padding-top: 15px;
   padding-bottom: 10px;
+
 }
 
 .section-9 {
   font-size: 12px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.section-10{
+  width: 150px;
 }
 .section-11 {
-  width: 35px;
+  width: 28px;
 
-}
-.section-10{
-  width: 160px;
 }
 .content {
   width: 80%;
@@ -235,11 +237,11 @@ ul li {
   background-color: black;
   margin-left: 10%;
 }
-.col-11 {
+.section-11 {
   margin-left: 35%;
   padding-top: 7%;
 }
-.col-12 {
+.section-12 {
   color: white;
   max-width: 100%;
   text-align: center;
@@ -273,7 +275,7 @@ ul li {
 }
 .col-15 {
   display: flex;
-  padding-left: 12px;
+  padding-left: 35px;
   padding-top: 7px;
 }
 .col-16 {
