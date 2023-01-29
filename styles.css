@@ -181,7 +181,7 @@ ul li {
 .block-2{
   background-color: rgba(123, 172, 220, 0.359);
   width: 80%;
-  height: 700px;
+  height: 500px;
   margin-top: 60px;
   margin-left: 10%;
 }
@@ -200,9 +200,10 @@ ul li {
 .block-3 {
   display: flex;
   justify-content: space-around;
+  
 }
 
-.card-2{
+.card-blue{
   width: 280px;
   height: 280px;
   margin-top: 15px;
@@ -226,7 +227,7 @@ ul li {
 
 }
 .section-10{
-  width: 200px;
+  width: 160px;
 }
 .content {
   width: 80%;
@@ -246,39 +247,39 @@ ul li {
   padding-right: 29%;
   padding-top: 7px;
 }
-
 .row-3 {
   display: flex;
   justify-content: center;
   margin-top: 40px;
 }
-.carde {
+.card-white {
   width: 340px;
-  height: 240px;
+  height: 270px;
   color: black;
   background-color: white;
   margin: 40px;
+  font-size: 15px;
 }
 
 .col-13 {
   padding-top: 15px;
   padding-left: 40px;
-  font-size: 8px;
+  font-size: 15px;
   font-weight: 700;
 }
 .col-14 {
-  font-size: 9px;
+  font-size: 13px;
   padding-left: 40px;
 }
 .col-15 {
   display: flex;
-  padding-left: 40px;
-  padding-top: 10px;
+  padding-left: 12px;
+  padding-top: 7px;
 }
 .col-16 {
   padding-top: 10px;
   padding-left: 40px;
-  padding-right: 40px;
+  padding-right: 50px;
 }
 .row-5 {
   width: 80%;
@@ -288,18 +289,18 @@ ul li {
   justify-content: center;
   margin-left: 10%;
 }
-.card- {
+.card-2 {
   max-width: 320px;
   color: white;
   margin: 60px;
   padding-top: 60px;
 }
 .card-2 img {
-  max-width: 100%;
+max-width:100%;
 }
 .col-17 {
   padding-top: 20px;
-}
+  }
 footer {
   max-width: 80%;
   height: 280px;
@@ -342,7 +343,7 @@ footer {
 }
 
 .col-19 {
-  font-size: 14px;
+  font-size: 12px;
   padding-left: 15px;
   padding-top: 15px;
 }
