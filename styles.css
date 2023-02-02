@@ -79,13 +79,13 @@ ul li {
   position: relative;
   right: 35px;
 }
-.section-1 {
+.red-backgraund{
   border: 1px red solid;
   border-radius: 50px;
   background-color: red;
   width: 25px;
 }
-.section-2 {
+.transparent-backgraund {
   border: 1px white solid;
   border-radius: 50px;
   background-color: rgba(255, 255, 255, 0.046);
@@ -199,6 +199,7 @@ ul li {
   display: flex;
   justify-content: space-around;
   
+  
 }
 
 .card-blue{
@@ -210,9 +211,9 @@ ul li {
 }
 
 .section-8{
-  width: 130px;
-  padding-top: 15px;
-  padding-bottom: 10px;
+  width:  225px;
+  padding-left: 4px;
+  padding-right: 10px;
 
 }
 
