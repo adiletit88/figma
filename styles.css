@@ -79,13 +79,13 @@ ul li {
   position: relative;
   right: 35px;
 }
-.red-backgraund{
+.red-background{
   border: 1px red solid;
   border-radius: 50px;
   background-color: red;
   width: 25px;
 }
-.transparent-backgraund {
+.transparent-background {
   border: 1px white solid;
   border-radius: 50px;
   background-color: rgba(255, 255, 255, 0.046);
@@ -211,11 +211,11 @@ ul li {
 }
 
 .section-8{
-  width:  225px;
-  padding-left: 4px;
-  padding-right: 10px;
-
-}
+  font-size: 30px;
+  padding-left: 55px;
+  padding-right: 55px;
+  }
+  
 
 .section-9 {
   font-size: 12px;
@@ -224,7 +224,9 @@ ul li {
 }
 
 .section-10{
-  width: 150px;
+display: flex;
+font-size: 14px;
+padding-left: 4px;
 }
 .section-11 {
   width: 28px;
