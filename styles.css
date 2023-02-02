@@ -226,7 +226,13 @@ ul li {
 .section-10{
 display: flex;
 font-size: 14px;
-padding-left: 4px;
+}
+.man{
+  font-size: 8px;
+}
+
+.text{
+  padding-left: 6px;
 }
 .section-11 {
   width: 28px;
